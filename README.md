@@ -11,4 +11,6 @@ JavaScript: Estilização movimentação do carrossel dos Alunos.
 
  
 link do site disponobilizado >> https://progetodnc.netlify.app/
+![dnc](https://github.com/user-attachments/assets/32a2347b-2fc9-4484-8e1f-4c9e9454071f)
+
 
