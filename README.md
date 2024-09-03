@@ -5,9 +5,9 @@
 
 HTML5: Estrutura da página e conteúdo. 
 
-CSS3: Estilização da interface do sorteio. 
+CSS3: Estilização da interface da Landing Page. 
 
-JavaScript: Implementação da lógica de sorteio e manipulação do DOM para interatividade. 
+JavaScript: Estilização movimentação do carrossel dos Alunos. 
 
  
 link do site disponobilizado >> https://progetodnc.netlify.app/
