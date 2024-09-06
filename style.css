@@ -183,7 +183,7 @@ button:hover{
 
 
 }
-@media screen and (width >=700px) and (width <= 1000px){
+@media screen and (width >= 700px) and (width <= 1000px){
  div{
 height: 100px; 
 width: 100px;
