@@ -183,3 +183,17 @@ button:hover{
 
 
 }
+@media screen and (width >=700px) and (width <= 1000px){
+ div{
+height: 100px; 
+width: 100px;
+}
+
+@media screen and (width < 700px){
+    div{
+        width: 250px;
+        height: 150px;
+    }
+    main{
+        flex-direcion: column;
+    }
