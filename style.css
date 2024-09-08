@@ -180,20 +180,11 @@ button:hover{
     transform: translateY(-7px);
     box-shadow: 0px 15px 20px #616567;
     transition-duration: 0.5s;
-
-
-}
-@media screen and (width >= 700px) and (width <= 1000px){
- div{
-height: 100px; 
-width: 100px;
 }
 
-@media screen and (width < 700px){
-    div{
-        width: 250px;
-        height: 150px;
+@media screen and (max-width: 768px) {
+    #divisao1 {
+        display: block;
+        background-image: none
     }
-    main{
-        flex-direcion: column;
-    }
+}
