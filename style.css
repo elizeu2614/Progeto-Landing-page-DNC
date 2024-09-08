@@ -182,9 +182,3 @@ button:hover{
     transition-duration: 0.5s;
 }
 
-@media screen and (max-width: 768px) {
-    #divisao1 {
-        display: block;
-        background-image: none;
-    }
-}
