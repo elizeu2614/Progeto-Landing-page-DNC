@@ -185,6 +185,6 @@ button:hover{
 @media screen and (max-width: 768px) {
     #divisao1 {
         display: block;
-        background-image: none
+        background-image: none;
     }
 }
