@@ -182,3 +182,88 @@ button:hover{
     transition-duration: 0.5s;
 }
 
+/* Tablet styles (768px - 1024px) */
+@media screen and (max-width: 1024px) {
+    #Divisão1 {
+        padding: 50px;
+    }
+
+    #fonte-do-titulo, #fonte-do-texto {
+        margin-left: 50px;
+    }
+
+    #Divisão2 {
+        grid-auto-flow: row;
+        text-align: center;
+    }
+
+    #selecaodovideo {
+        grid-auto-flow: row;
+    }
+
+    #Titulodovideo {
+        margin-left: 50px;
+        padding-right: 50px;
+    }
+
+    #video {
+        margin: 50px auto;
+        max-width: 90%;
+    }
+
+    #cards {
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        scroll-behavior: smooth;
+    }
+
+    .cards {
+        scroll-snap-align: center;
+    }
+}
+
+/* Mobile styles (up to 768px) */
+@media screen and (max-width: 768px) {
+    #logo {
+        margin-left: 20px;
+        margin-top: 20px;
+        max-width: 150px;
+    }
+
+    #fonte-do-titulo {
+        font-size: 24px;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+
+    #fonte-do-texto {
+        font-size: 16px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    #Divisão1 {
+        padding: 30px;
+    }
+
+    .icone {
+        padding: 15px;
+    }
+
+    #Titulodovideo {
+        font-size: 20px;
+        margin-left: 20px;
+        padding-right: 20px;
+    }
+
+    #textodocarrossel {
+        font-size: 20px;
+    }
+
+    input, button {
+        width: 90%;
+        max-width: 300px;
+        margin: 10px auto;
+        display: block;
+    }
+}
